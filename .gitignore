@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+output.jpg
+poster_*.jpg
+fonts/
